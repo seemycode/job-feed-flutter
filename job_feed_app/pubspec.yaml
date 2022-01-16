@@ -12,25 +12,17 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  data_connection_checker: ^0.3.4
-  equatable: ^2.0.3
-  floor: ^1.2.0
-  flutter_bloc: ^8.0.1
-  flutter_hooks: ^0.18.2
-  get_it: ^7.2.0
-  ionicons: ^0.1.2
-  lint: ^1.8.1
-  retrofit: ^3.0.1
-  shared_preferences: ^2.0.12
+  equatable: ^2.0.3  
+  freezed_annotation:
+  dartz:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  retrofit_generator: ^4.0.0
-  floor_generator: ^1.2.0
-  build_runner: ^2.1.7
-  mockito: ^5.0.17
+  build_runner: 
+  mockito: 
+  freezed: 
 
 flutter:
   uses-material-design: true
