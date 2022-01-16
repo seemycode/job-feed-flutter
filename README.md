@@ -33,7 +33,7 @@ Since this is an exempt of the full app, let's consider just three main requirem
 
 ## 2. Layout Design
 
-![Site Fetch](../blob/skeleton/assets/JobFeedApp-SiteFetch-2022-01-11-1932.png)
+![Site Fetch](../skeleton/assets/JobFeedApp-SiteFetch-2022-01-11-1932.png)
 
 ## 3. Architecture
 
